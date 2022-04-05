@@ -21,6 +21,22 @@ class MainActivity : AppCompatActivity() {
         print("hellow orld")
         print("hellow orld")
         print("hellow orld")
+        print("hai")
+        print("hai")
+        print("hai")
+        print("hai")
+        print("hai")
+        print("hai")
+        print("hai")
+        print("hai")
+        print("hai")
+        print("hai")
+        print("hai")
+        print("hai")
+        print("hai")
+        print("hai")
+        print("hai")
+        print("hai")
 
     }
 }
