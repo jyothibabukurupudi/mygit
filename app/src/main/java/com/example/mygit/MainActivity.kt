@@ -13,5 +13,14 @@ class MainActivity : AppCompatActivity() {
         print("hello")
         print("hello")
         print("hellow orld")
+        print("joee")
+        print("hellow orld")
+        print("hellow orld")
+        print("hellow orld")
+        print("hellow orld")
+        print("hellow orld")
+        print("hellow orld")
+        print("hellow orld")
+
     }
 }
