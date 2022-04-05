@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("hello","hellow world")
         print("hello")
         print("hello")
+        print("hello")
     }
 }
